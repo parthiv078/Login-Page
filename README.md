@@ -25,7 +25,7 @@ This simple yet elegant design includes username & password fields, a “Remembe
 
 ## 📂 Project Structure
 login-page/
-│
-├── index.html        # Main HTML file
-├── style.css         # CSS styling for the login form
-└── background.avif   # Background image used in the design
+├── index.html
+├── style.css
+└── japan-background.avif
+
