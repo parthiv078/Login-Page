@@ -25,7 +25,10 @@ This simple yet elegant design includes username & password fields, a “Remembe
 
 ## 📂 Project Structure
 
+```
 login-page/
 ├── index.html
 ├── style.css
 └── japan-background.avif
+```
+
